@@ -1,0 +1,402 @@
+[
+  {
+    "id": 0,
+    "street": "206 Edgewater Dr",
+    "city": "Algonac",
+    "full_address": "206 Edgewater Dr, Algonac, MI",
+    "lat": 42.6089,
+    "lon": -82.4655
+  },
+  {
+    "id": 1,
+    "street": "9834 Dixie Hwy.",
+    "city": "Anchorville",
+    "full_address": "9834 Dixie Hwy., Anchorville, MI",
+    "lat": 42.7892,
+    "lon": -82.8956
+  },
+  {
+    "id": 2,
+    "street": "80720 Capac Road",
+    "city": "Armada",
+    "full_address": "80720 Capac Road, Armada, MI",
+    "lat": 42.9145,
+    "lon": -82.8756
+  },
+  {
+    "id": 3,
+    "street": "12501 State Street",
+    "city": "Atlanta",
+    "full_address": "12501 State Street, Atlanta, MI",
+    "lat": 44.6892,
+    "lon": -84.5645
+  },
+  {
+    "id": 4,
+    "street": "3300 Auburn Road",
+    "city": "Auburn Hills",
+    "full_address": "3300 Auburn Road, Auburn Hills, MI",
+    "lat": 42.7156,
+    "lon": -83.2789
+  },
+  {
+    "id": 5,
+    "street": "3400 Auburn Road Suite 235",
+    "city": "Auburn Hills",
+    "full_address": "3400 Auburn Road Suite 235, Auburn Hills, MI",
+    "lat": 42.7167,
+    "lon": -83.2801
+  },
+  {
+    "id": 6,
+    "street": "3300 Auburn Rd Suite 210",
+    "city": "Auburn Hills",
+    "full_address": "3300 Auburn Rd Suite 210, Auburn Hills, MI",
+    "lat": 42.7156,
+    "lon": -83.2789
+  },
+  {
+    "id": 7,
+    "street": "3313 Parkways Blvd",
+    "city": "Auburn Hills",
+    "full_address": "3313 Parkways Blvd, Auburn Hills, MI",
+    "lat": 42.6845,
+    "lon": -83.2234
+  },
+  {
+    "id": 8,
+    "street": "2985 12 Mile Rd",
+    "city": "Berkley",
+    "full_address": "2985 12 Mile Rd, Berkley, MI",
+    "lat": 42.5012,
+    "lon": -83.1834
+  },
+  {
+    "id": 9,
+    "street": "3311 W 12 Mile Rd",
+    "city": "Berkley",
+    "full_address": "3311 W 12 Mile Rd, Berkley, MI",
+    "lat": 42.5023,
+    "lon": -83.1923
+  },
+  {
+    "id": 10,
+    "street": "3500 W Eleven Mile Rd Ste-A",
+    "city": "Berkley",
+    "full_address": "3500 W Eleven Mile Rd Ste-A, Berkley, MI",
+    "lat": 42.5089,
+    "lon": -83.2012
+  },
+  {
+    "id": 11,
+    "street": "2626 Wakefield Rd",
+    "city": "Berkley",
+    "full_address": "2626 Wakefield Rd, Berkley, MI",
+    "lat": 42.5156,
+    "lon": -83.1678
+  },
+  {
+    "id": 12,
+    "street": "3814 Prairie",
+    "city": "Berkley",
+    "full_address": "3814 Prairie, Berkley, MI",
+    "lat": 42.5234,
+    "lon": -83.1845
+  },
+  {
+    "id": 13,
+    "street": "3311 West Twelve Mile Rd",
+    "city": "Berkley",
+    "full_address": "3311 West Twelve Mile Rd, Berkley, MI",
+    "lat": 42.5023,
+    "lon": -83.1923
+  },
+  {
+    "id": 14,
+    "street": "18129 Riverside Dr",
+    "city": "Beverly Hills",
+    "full_address": "18129 Riverside Dr, Beverly Hills, MI",
+    "lat": 42.6723,
+    "lon": -83.2156
+  },
+  {
+    "id": 15,
+    "street": "31455 Southfield Rd",
+    "city": "Beverly Hills",
+    "full_address": "31455 Southfield Rd, Beverly Hills, MI",
+    "lat": 42.6834,
+    "lon": -83.2834
+  },
+  {
+    "id": 16,
+    "street": "31333 Southfield Rd",
+    "city": "Beverly Hills",
+    "full_address": "31333 Southfield Rd, Beverly Hills, MI",
+    "lat": 42.6823,
+    "lon": -83.2823
+  },
+  {
+    "id": 17,
+    "street": "32355 Westlady",
+    "city": "Beverly Hills",
+    "full_address": "32355 Westlady, Beverly Hills, MI",
+    "lat": 42.6912,
+    "lon": -83.3001
+  },
+  {
+    "id": 18,
+    "street": "31333 Southfield Road Suite 250",
+    "city": "Beverly Hills",
+    "full_address": "31333 Southfield Road Suite 250, Beverly Hills, MI",
+    "lat": 42.6823,
+    "lon": -83.2823
+  },
+  {
+    "id": 19,
+    "street": "16973 Weatherby",
+    "city": "Beverly Hills",
+    "full_address": "16973 Weatherby, Beverly Hills, MI",
+    "lat": 42.6645,
+    "lon": -83.2567
+  },
+  {
+    "id": 20,
+    "street": "30400 Telegraph Road Suite 120",
+    "city": "Bingham Farms",
+    "full_address": "30400 Telegraph Road Suite 120, Bingham Farms, MI",
+    "lat": 42.5845,
+    "lon": -83.2234
+  },
+  {
+    "id": 21,
+    "street": "363 E. Maple Road",
+    "city": "Birmingham",
+    "full_address": "363 E. Maple Road, Birmingham, MI",
+    "lat": 42.5467,
+    "lon": -83.4089
+  },
+  {
+    "id": 22,
+    "street": "653 Wallace St",
+    "city": "Birmingham",
+    "full_address": "653 Wallace St, Birmingham, MI",
+    "lat": 42.5478,
+    "lon": -83.4101
+  },
+  {
+    "id": 23,
+    "street": "259 E Frank St, Birmingham, MI 48009",
+    "city": "Birmingham",
+    "full_address": "259 E Frank St, Birmingham, MI 48009, Birmingham, MI",
+    "lat": 42.5423,
+    "lon": -83.4145
+  },
+  {
+    "id": 24,
+    "street": "369 N Old Woodward Ave",
+    "city": "Birmingham",
+    "full_address": "369 N Old Woodward Ave, Birmingham, MI",
+    "lat": 42.5512,
+    "lon": -83.4178
+  },
+  {
+    "id": 25,
+    "street": "187 S. Old Woodward",
+    "city": "Birmingham",
+    "full_address": "187 S. Old Woodward, Birmingham, MI",
+    "lat": 42.5434,
+    "lon": -83.4167
+  },
+  {
+    "id": 26,
+    "street": "34222 Woodward Ave",
+    "city": "Birmingham",
+    "full_address": "34222 Woodward Ave, Birmingham, MI",
+    "lat": 42.5289,
+    "lon": -83.4056
+  },
+  {
+    "id": 27,
+    "street": "975 E Maple Rd suite 210",
+    "city": "Birmingham",
+    "full_address": "975 E Maple Rd suite 210, Birmingham, MI",
+    "lat": 42.5478,
+    "lon": -83.3945
+  },
+  {
+    "id": 28,
+    "street": "104 Willits Street",
+    "city": "Birmingham",
+    "full_address": "104 Willits Street, Birmingham, MI",
+    "lat": 42.5456,
+    "lon": -83.4189
+  },
+  {
+    "id": 29,
+    "street": "794 Southfield Rd",
+    "city": "Birmingham",
+    "full_address": "794 Southfield Rd, Birmingham, MI",
+    "lat": 42.5467,
+    "lon": -83.4278
+  },
+  {
+    "id": 30,
+    "street": "14 s old Woodward",
+    "city": "Birmingham",
+    "full_address": "14 s old Woodward, Birmingham, MI",
+    "lat": 42.5378,
+    "lon": -83.4167
+  },
+  {
+    "id": 31,
+    "street": "132 N. OLD WOODWARD AVE",
+    "city": "BIRMINGHAM",
+    "full_address": "132 N. OLD WOODWARD AVE, BIRMINGHAM, MI",
+    "lat": 42.5501,
+    "lon": -83.4178
+  },
+  {
+    "id": 32,
+    "street": "2239 Cole Street",
+    "city": "Birmingham",
+    "full_address": "2239 Cole Street, Birmingham, MI",
+    "lat": 42.5645,
+    "lon": -83.4023
+  },
+  {
+    "id": 33,
+    "street": "2007 Cole Street",
+    "city": "Birmingham",
+    "full_address": "2007 Cole Street, Birmingham, MI",
+    "lat": 42.5634,
+    "lon": -83.4001
+  },
+  {
+    "id": 34,
+    "street": "1045 N Old Woodward Ave",
+    "city": "Birmingham",
+    "full_address": "1045 N Old Woodward Ave, Birmingham, MI",
+    "lat": 42.5534,
+    "lon": -83.4178
+  },
+  {
+    "id": 35,
+    "street": "2253 cole st",
+    "city": "Birmingham",
+    "full_address": "2253 cole st, Birmingham, MI",
+    "lat": 42.5656,
+    "lon": -83.4034
+  },
+  {
+    "id": 36,
+    "street": "339 Baldwin",
+    "city": "Birmingham",
+    "full_address": "339 Baldwin, Birmingham, MI",
+    "lat": 42.5423,
+    "lon": -83.4212
+  },
+  {
+    "id": 37,
+    "street": "800 henley",
+    "city": "Birmingham",
+    "full_address": "800 henley, Birmingham, MI",
+    "lat": 42.5489,
+    "lon": -83.4267
+  },
+  {
+    "id": 38,
+    "street": "405 S Eaton",
+    "city": "Birmingham",
+    "full_address": "405 S Eaton, Birmingham, MI",
+    "lat": 42.5356,
+    "lon": -83.4189
+  },
+  {
+    "id": 39,
+    "street": "555 s Woodward",
+    "city": "Birmingham",
+    "full_address": "555 s Woodward, Birmingham, MI",
+    "lat": 42.5389,
+    "lon": -83.4223
+  },
+  {
+    "id": 40,
+    "street": "2003 Cole St",
+    "city": "Birmingham",
+    "full_address": "2003 Cole St, Birmingham, MI",
+    "lat": 42.5623,
+    "lon": -83.3989
+  },
+  {
+    "id": 41,
+    "street": "36801 Woodward Ave. suite 200",
+    "city": "Birmingham",
+    "full_address": "36801 Woodward Ave. suite 200, Birmingham, MI",
+    "lat": 42.5156,
+    "lon": -83.4001
+  },
+  {
+    "id": 42,
+    "street": "237 Willits Alley",
+    "city": "Birmingham",
+    "full_address": "237 Willits Alley, Birmingham, MI",
+    "lat": 42.5467,
+    "lon": -83.4201
+  },
+  {
+    "id": 43,
+    "street": "187 S Old Woodward",
+    "city": "Birmingham",
+    "full_address": "187 S Old Woodward, Birmingham, MI",
+    "lat": 42.5434,
+    "lon": -83.4167
+  },
+  {
+    "id": 44,
+    "street": "880 S. Old Woodward Ave",
+    "city": "Birmingham",
+    "full_address": "880 S. Old Woodward Ave, Birmingham, MI",
+    "lat": 42.5378,
+    "lon": -83.4156
+  },
+  {
+    "id": 45,
+    "street": "800 N Old Woodward Ave",
+    "city": "Birmingham",
+    "full_address": "800 N Old Woodward Ave, Birmingham, MI",
+    "lat": 42.5523,
+    "lon": -83.4178
+  },
+  {
+    "id": 46,
+    "street": "1288 Dorchester",
+    "city": "Birmingham",
+    "full_address": "1288 Dorchester, Birmingham, MI",
+    "lat": 42.5589,
+    "lon": -83.3967
+  },
+  {
+    "id": 47,
+    "street": "395 E. maple Road",
+    "city": "Birmingham",
+    "full_address": "395 E. maple Road, Birmingham, MI",
+    "lat": 42.5478,
+    "lon": -83.4101
+  },
+  {
+    "id": 48,
+    "street": "107 Townsend Street",
+    "city": "Birmingham",
+    "full_address": "107 Townsend Street, Birmingham, MI",
+    "lat": 42.5445,
+    "lon": -83.4234
+  },
+  {
+    "id": 49,
+    "street": "275 E Frank St",
+    "city": "Birmingham",
+    "full_address": "275 E Frank St, Birmingham, MI",
+    "lat": 42.5434,
+    "lon": -83.4145
+  }
+]
